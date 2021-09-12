@@ -1,13 +1,24 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: MS in Mathematics
+  uni: City College of New York
+  year: 2018 &mdash; 2020
+  summary: <b>Cum. GPA</b>&colon; 3.93
+          <br>
+          <b>Coursework</b>&colon; Abstract Algebra, Complex Analysis, Topology, Convex Analysis, Number Theory
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: BS in Applied Mathematics
+  uni: Brooklyn College
+  year: 2015 &mdash; 2017
+  awards: 
+    - award: Summa Cum Laude
+    - award: Dean's List (All Semesters)
+    - award: Departmental Honors in Mathematics
+  summary: <b>Cum. GPA</b>&colon; 3.87
+          <br><b>Coursework</b>&colon; Mathematical Modeling, C++, Probability. &amp; Statistics, Real Analysis
+
+- degree: AS in Accounting
+  uni: Western Wyoming Community College
+  year: 2013 &mdash; 2015
+  awards: 
+    - award: President's List (All Semesters)
+  summary: <b>Cum. GPA</b>&colon; 3.87
