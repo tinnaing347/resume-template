@@ -23,9 +23,9 @@ resume_contact_address:         "New York, NY"
 resume_header_contact_info:     "New York, NY • tinnaing347@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>As a mathematician by education and a software developer by trade, I have applied my problem solving and mathematical skills, and passion for sustainability and environmental issues towards building energy modeling at City University of New York.</p>
-                      <p>I enjoy developing scalable and unit-testable libraries and web APIs using microservice architecture. I have taught myself Python, R and JavaScript. As of right now,
-                      I have been working on a todo web app with a social-networking aspect.</p>"
+resume_header_intro: "<p>As a mathematician by education and a software developer by trade, I have applied my problem-solving and mathematical skills and passion for sustainability and environmental issues towards building energy modeling at the City University of New York.</p>
+                      <p>I enjoy developing scalable and unit-testable libraries and web APIs using microservice architecture. I have taught myself Python, R, and JavaScript. As of right now,
+                      I have been working on a to-do web app with a social networking aspect.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
