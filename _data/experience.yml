@@ -16,10 +16,10 @@
   position: Data Analyst Inter, Energy Data Lab
   duration: July, 2017 &mdash; June, 2019
   summary: <ul class="resume-item-list">
-              <li>Increased the speed of regression modeler by 90&percnt; by rewriting its Python modules.</li>
-              <li>Using Python's SQLAlchemy, Celery and Click, wrote a command line program that regularly updates a Postgres database by pulling temperature data from MesoWest's API.</li>
-              <li>Automated energy data analyzing processes, which were initially being done in Excel, by creating multiple visualization (Shiny dashboards) and analytic tools in R and Python.</li>
-              <li>Fixed a linear algebra bug in a segmented linear regression modeler that was crashing the Building Energy Modeling and Analysis program.</li>
+              <li>Increased the speed of the regression modeler by 90&percnt; by rewriting its Python modules.</li>
+              <li>Using Python's SQLAlchemy, Celery and Click, wrote a command-line program that regularly updates a Postgres database by pulling temperature data from MesoWest's API.</li>
+              <li>Automated energy data analyzing processes initially done in Excel, by creating multiple visualizations (Shiny dashboards) and analytic tools in R and Python.</li>
+              <li>Fixed a linear algebra bug in a segmented linear regression modeler crashing the Building Energy Modeling and Analysis program.</li>
               </ul>
 
 
@@ -28,7 +28,7 @@
   position: Backend Engineer (contract)
   duration:   April, 2021  &mdash; June, 2021
   summary: <ul class="resume-item-list">
-              <li>Techstack&colon; FastAPI, MongoDB, Cron, Docker, AWS</li>
+              <li>Techstack&colon; FastAPI, MongoDB, Cron, Docker, AWS.</li>
               <liUsing microservice architecture, designed the main backend API and an RPC service for a social networking web app.</li>
               <li>Developed and unittested backend API, with async endpoints, using FastAPI and MongoDB.</li>
               <li>Setup users' management and authentication with AWS Cognito.</li>

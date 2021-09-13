@@ -6,7 +6,7 @@
   role: Co-Founder & Primary Developer
   duration: Aug, 2021 &mdash; Present
   # url: "#"
-  description: A todo web app with a social networking aspect using FastAPI, MongoDB, and Docker for backend, ReactJS, React Redux, Material UI for frontend, and Firebase Auth for users' authentication.
+  description: A todo web app with a social networking aspect using FastAPI, MongoDB and Docker for backend, ReactJS, React Redux and Material UI for frontend, and Firebase Auth for users' authentication.
 
 
 # GoBike
@@ -14,5 +14,5 @@
   role: Primary Developer
   duration: September, 2020 &mdash; October, 2020
   url: "https://github.com/tinnaing347/gobike"
-  description: Collected real time bike status information from Citi Bike using Go and InfluxDB, and visualized the data with Python's plotly to determine e-bike availability in NYC.
+  description: Collected real-time bike status information from Citi Bike using Go and InfluxDB and visualized the data with Python's plotly to determine e-bike availability in NYC.
 
